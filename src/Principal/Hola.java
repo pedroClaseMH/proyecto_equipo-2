@@ -9,8 +9,9 @@ package com.mycompany.minirreto;
  * @author DAW120
  */
 public class Minirreto {
-
+    //Codigo que muestra un mensaje
     public static void main(String[] args) {
         System.out.println("Hello World!");
+        
     }
 }
