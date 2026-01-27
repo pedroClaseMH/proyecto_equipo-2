@@ -1,0 +1,9 @@
+Caso    a   		b	Resultado
+1.	3		8	11. Ocurre con normalidad, ya que los valores son los adecuados.
+2.	3		-8	-5. En vez de sumar se restaría, se debería limitar los valores de entrada a números positivos.
+3.	3		0	3. Al haber un 0 no se sumaría. Se debería limitar a números mayores de cero.
+4.	2,147,483,647 	1	Error. Se sobrepasa el limite de int.
+5.	-3		-8	-11. Se sumaria en números negativos, es decir se restarían.
+6.	0		-3	-3. Se quedarían en -3.
+7.	0		0	0. Ni se sumaría ni se restaría.
+8.	-2,147,483,647	-1	Error. Se sobrepasaría el limite de int.
