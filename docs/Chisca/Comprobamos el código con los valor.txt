@@ -1,0 +1,4 @@
+Comprobamos el código con los valores por defecto que aparecen en el código
+Una vez hemos visto que de esa manera funciona después podemos cambiar algunos valores para comprobar su correcto funcionamiento, en mi caso he cambiado los valores por algunos mas grandes y en negativo y el funcionamiento ha sido correcto
+Hay casos en los que puede dar error un caso podría ser que pongamos un valor demasiado alto para la variable int.
+
