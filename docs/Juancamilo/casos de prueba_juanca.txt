@@ -1,0 +1,9 @@
+He probado la suma con dos valores positivos y el resultado es correcto(1,1). También he probado la suma entre un valor positivo y otro negativo(1,-2), obteniendo un resultado negativo. Cuando ambos valores son negativos(-1,-1), la suma sigue funcionando correctamente. Al usar un valor cero junto a otro distinto de cero(0,-1), el resultado no se ve afectado. Si ambos valores son cero(0,0), el resultado también es cero. Al usar valores muy grandes(12345,12345), la suma funciona mientras no se supere el límite del tipo entero. Cuando se supera ese límite, se produce un error por desbordamiento. Y finalmente con numeros con coma flotante(1.2,1.2) el resultado daria error pues es entero.
+
+Caso 1: a = 3, b = 5 → resultado esperado: 8
+Caso 2: a = 3, b = -5 → resultado esperado: -2
+Caso 3: a = -4, b = -6 → resultado esperado: -10
+Caso 4: a = 0, b = 7 → resultado esperado: 7
+Caso 5: a = 0, b = 0 → resultado esperado: 0
+Caso 6: a = 1000000, b = 2000000 → resultado esperado: 3000000
+Caso 7: a = 2147483647, b = 1 → resultado: desbordamiento del tipo int
