@@ -9,6 +9,7 @@ Contiene los elementos mínimos a compartir con cada equipo
 - Daniel Zabala
 - Hugo Andrea
 - Ossel Santamaria
+- Juan Camilo Vallejo
 - David Chisca
 
 ## Instrucciones
