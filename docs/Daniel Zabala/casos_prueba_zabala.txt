@@ -1,0 +1,61 @@
+- CASOS DE PRUEBA  
+
+
+/////////////////////////////////////////////////
+CASO 1: Valores positivos
+Entrada:
+a = 3
+b = 8
+Resultado esperado:
+El resultado de la suma es: 11
+
+/////////////////////////////////////////////////
+CASO 2: Ambos valores cero
+Entrada:
+a = 0
+b = 0
+Resultado esperado:
+El resultado de la suma es: 0
+
+/////////////////////////////////////////////////
+CASO 3: Un valor positivo y otro negativo
+Entrada:
+a = 10
+b = -5
+Resultado esperado:
+El resultado de la suma es: 5
+
+/////////////////////////////////////////////////
+CASO 4: Ambos valores negativos
+Entrada:
+a = -4
+b = -6
+Resultado esperado:
+El resultado de la suma es: -10
+
+/////////////////////////////////////////////////
+CASO 5: Valores grandes
+Entrada:
+a = 1000000
+b = 2000000
+Resultado esperado:
+El resultado de la suma es: 3000000
+
+/////////////////////////////////////////////////
+CASO 6: Valor mínimo entero
+Entrada:
+a = -2147483648
+b = 0
+Resultado esperado:
+El resultado de la suma es: -2147483648
+
+/////////////////////////////////////////////////
+CASO 7: El int no puede abordar el numero de salida por el limite de este tipo de variable
+Entrada:
+a = 2147483647
+b = 1
+Resultado esperado:
+(resultado incorrecto por límite de int)
+
+/////////////////////////////////////////////////
+
