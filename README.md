@@ -13,4 +13,5 @@ Contiene los elementos mínimos a compartir con cada equipo
 
 ## Instrucciones
 
-- Puedes encontrar la clase princimal dentro de src\Principal
+- Puedes encontrar documentacion en la carpeta docs\
+- El programa se encuentra en la carpeta src\
