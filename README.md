@@ -16,3 +16,7 @@ Contiene los elementos mínimos a compartir con cada equipo
 
 - Puedes encontrar documentacion en la carpeta docs\
 - El programa se encuentra en la carpeta src\
+
+## Desarrollo
+
+- He creado una nueva rama donde he creado una carpeta y he añadido una aplicación básica y he hecho un commit de eso.
