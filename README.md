@@ -19,4 +19,5 @@ Contiene los elementos mínimos a compartir con cada equipo
 
 ## Desarrollo
 
-- He creado una nueva rama donde he creado una carpeta y he añadido una aplicación básica y he hecho un commit de eso.
+- He creado una nueva rama donde he creado una carpeta, he añadido una aplicación básica y he hecho un commit de eso.
+- He desarrollado un documeto pdf donde se ven ejemplos de caja negra y ejemplos de caja blanca
