@@ -7,8 +7,3 @@ Aquí es donde el equipo debe:
 - Implementar las funcionalidades del proyecto
 - Modificar y ampliar el código durante el desarrollo
 
-## Normas de trabajo
-- Cada cambio importante debe subirse con un commit.
-- No borrar archivos de otros compañeros sin avisar.
-- El código debe estar ordenado y comentado de forma básica.
-
