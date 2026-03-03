@@ -1,9 +1,9 @@
 # Carpeta src
 
-En esta carpeta se encuentra el **código fuente del proyecto**.
+En esta carpeta se encuentra el *ejercicio .java*.
 
-Aquí es donde el equipo debe:
-- Crear los archivos principales del programa
-- Implementar las funcionalidades del proyecto
-- Modificar y ampliar el código durante el desarrollo
+
+# Carpeta documents
+
+En la carpeta documents, estan metidas las pruebas de caja blanca y negra respecto al ejercicio .java metido anteriorimente.
 
